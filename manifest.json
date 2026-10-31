@@ -1,0 +1,33 @@
+{
+  "name": "ثروتي من الذهب | GOLDEN WEALTH",
+  "short_name": "ثروتي ذهب",
+  "description": "نظام متابعة وإدارة مدخرات الذهب في مصر لحظة بلحظة بحسابات دقيقة قائمة على سعر جرام عيار 21",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B0D0C",
+  "theme_color": "#D4AF37",
+  "dir": "rtl",
+  "lang": "ar",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["finance", "utilities"]
+}
